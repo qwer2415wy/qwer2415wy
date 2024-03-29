@@ -1,23 +1,35 @@
-### Hi, I'm Here 👋
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qwer2415wy" width="100%" />
+</div>
 
-> This is nfangxu, a php programmer from Beijing China. My blog is <a href="https://nfangxu.com">https://nfangxu.com</a>
+<br>
+<div align="center">
+  <img alt="SunLiu Taiwan" src="https://img.shields.io/static/v1?label=Taiwan&message=SunLiu&color=blue">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sun__0131?style=social">
+</div>
+<br><br>
 
-<img align='right' src="https://camo.githubusercontent.com/a5c7c7397871b9348b88302ac5cd56ddbf8774b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73792d7265636f7264732f73746174696366696c65406d61737465722f696d616765732f3230323030372f6875616a692e676966">
+> 您好我是 SunLiu, 一名後端至前端的自學程式設計師, 我來自台灣. 我的BLOG <a href="https://sunofficials.com/blog">sunofficials.com/blog</a>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I like group programming, if you are too, I am very happy that we can lift the friendship <del>🚢big ship</del> boat together and set sail.</em>
+> 我目前是一位剪輯師，也是一位區塊鏈交易員. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I am currently studying swoole and k8s. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+> <a href="https://www.okx.com/join/CRYPTOSUN">OKX</a> <a href="https://partner.bitget.com/bg/Z1DU0X">Bitget</a> <a href="https://bingx.com/invite/AQ3FPR">BingX</a> <a href="https://promote.mexc.com/a/CRYPTOSUN">Mexc</a> <a href="https://partner.bybit.com/b/sun0131">Bybit</a> <a href="https://www.pionex.com/zh-TW/sign/ref/JOFEv2XL">Pionex</a>
 
-### Learning progress
+### 專業技能
 
-- PHP ![PHP learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=51&leftFill=%2300FFFF "PHP learning progress")
+- Premiere Pro ![PR learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=90&leftFill=%2300FFFF "PR learning progress")
 
-- Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%2300FFFF "Front-end learning progress")
+- After Effect ![AE learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%2300FFFF "AE learning progress")
 
-- Linux ![Linux learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "Linux learning progress")
+- C++ ![CPP learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=85&leftFill=%2300FFFF "CPP learning progress")
 
-- Kubernetes / Docker ![kubernetes learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%2300FFFF "kubernetes learning progress")
+- Python ![PY learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%2300FFFF "PY learning progress")
+
+- Trade ![TR learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=%2300FFFF "TR learning progress")
 
 ### Github Stats
 
-![sun's github stats](https://github-readme-stats.vercel.app/api?username=qwer2415wy&show_icons=true&line_height=30)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=nfangxu&show_icons=true&line_height=30" align="left" width="50%">
+  <img src="https://github-profile-trophy.vercel.app/?username=nfangxu&row=2&column=3" width="34%">
+</div>
