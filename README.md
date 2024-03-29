@@ -27,9 +27,9 @@
 
 - Trade ![TR learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=%2300FFFF "TR learning progress")
 
-### Github Stats
+### Github 資訊
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=nfangxu&show_icons=true&line_height=30" align="left" width="50%">
-  <img src="https://github-profile-trophy.vercel.app/?username=nfangxu&row=2&column=3" width="34%">
+  <img src="https://github-readme-stats.vercel.app/api?username=qwer2415wy&show_icons=true&line_height=30" align="left" width="50%">
+  <img src="https://github-profile-trophy.vercel.app/?username=qwer2415wy&row=2&column=3" width="34%">
 </div>
