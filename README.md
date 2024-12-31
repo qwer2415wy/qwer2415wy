@@ -17,15 +17,15 @@
 
 ### 專業技能
 
-- Premiere Pro ![PR learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=90&leftFill=%2300FFFF "PR learning progress")
+- Premiere Pro
 
-- After Effect ![AE learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%2300FFFF "AE learning progress")
+- After Effect
 
-- C++ ![CPP learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=85&leftFill=%2300FFFF "CPP learning progress")
+- C++
 
-- Python ![PY learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%2300FFFF "PY learning progress")
+- Python
 
-- Trade ![TR learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=%2300FFFF "TR learning progress")
+- Trade
 
 ### Github 資訊
 
