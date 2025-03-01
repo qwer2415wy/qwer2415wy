@@ -9,9 +9,9 @@
 </div>
 <br><br>
 
-> 您好我是 SunLiu, 一名後端至前端的自學程式設計師, 我來自台灣. 我的BLOG <a href="https://sunofficial.top">sunofficial.top</a>
+> 您好我是 SunLiu, 我來自台灣. 我的網站 <a href="https://sunofficial.top">sunofficial.top</a>
 
-> 我目前是一位剪輯師，也是一位區塊鏈交易員. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+> 天才只是見我的門檻. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 > <a href="https://www.okx.com/join/CRYPTOSUN">OKX</a> <a href="https://partner.bitget.com/bg/Z1DU0X">Bitget</a> <a href="https://bingx.com/invite/AQ3FPR">BingX</a> <a href="https://promote.mexc.com/a/CRYPTOSUN">Mexc</a> <a href="https://partner.bybit.com/b/sun0131">Bybit</a> <a href="https://www.pionex.com/zh-TW/sign/ref/JOFEv2XL">Pionex</a>
 
@@ -24,8 +24,6 @@
 - C++
 
 - Python
-
-- Trade
 
 ### Github 資訊
 
