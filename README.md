@@ -30,5 +30,5 @@
 ### Github 資訊
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=qwer2415wy&show_icons=true&line_height=30" width="10%">
+  <img src="https://github-readme-stats.vercel.app/api?username=qwer2415wy&show_icons=true&line_height=30" width="100%">
 </div>
