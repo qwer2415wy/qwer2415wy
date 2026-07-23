@@ -20,7 +20,7 @@
 ### 🌐 連結
 
 - 網站：[sunofficial.top](https://sunofficial.top)
-- YouTube：[@xTop_Sun](https://youtube.com/@xTop_Sun)
+- YouTube：[@the.sun1k31](https://youtube.com/@the.sun1k31)
 - Twitter：[@xTop_Sun](https://twitter.com/xTop_Sun)
 
 ---
