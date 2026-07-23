@@ -25,4 +25,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwer2415wy&show_icons=true&theme=zenburn)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwer2415wy&show_icons=true&count_private=true&theme=zenburn)
