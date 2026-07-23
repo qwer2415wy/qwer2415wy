@@ -1,34 +1,28 @@
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qwer2415wy&theme=zenburn" width="100%" />
-</div>
+## Hi there 👋 我是 Sun
 
-<br>
-<div align="center">
-  <img alt="Sun.Liu Taiwan" src="https://img.shields.io/static/v1?label=Taiwan&message=SunLiu&color=blue">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xTop_Sun?style=social">
-</div>
-<br><br>
+來自台灣，白天做數據，晚上寫程式。
 
-> 您好我是 SunLiu, 我來自台灣. 我的網站 <a href="https://sunofficial.top">sunofficial.top</a>
+### 🔭 正在做
 
-> 我愛Coding!!!!!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- **Slimefun 5 繁體中文化** — 自製翻譯插件，掛內建引擎注入 items.yml
+- **MCP 伺服器開發** — NotebookLM、Pterodactyl、YouTube Analytics 等 MCP server
+- **YouTube 內容創作** — 遊戲實況與數據分析
 
-> <a href="https://www.okx.com/join/CRYPTOSUN">OKX</a> <a href="https://partner.bitget.com/bg/Z1DU0X">Bitget</a> <a href="https://bingx.com/invite/AQ3FPR">BingX</a> <a href="https://promote.mexc.com/a/CRYPTOSUN">Mexc</a> <a href="https://partner.bybit.com/b/sun0131">Bybit</a> <a href="https://www.pionex.com/zh-TW/sign/ref/JOFEv2XL">Pionex</a>
+### 🛠️ 技能
 
-### 專業技能
+`Python` `Java` `C++` `Premiere Pro` `After Effects`
 
-- Premiere Pro
+### 📌 精選專案
 
-- After Effect
+- [slimefun-zh-tw](https://github.com/qwer2415wy/slimefun-zh-tw) — Slimefun 5 繁體中文翻譯插件
+- 更多開發中…
 
-- C++
+### 🌐 連結
 
-- Python
+- 網站：[sunofficial.top](https://sunofficial.top)
+- YouTube：[@xTop_Sun](https://youtube.com/@xTop_Sun)
+- Twitter：[@xTop_Sun](https://twitter.com/xTop_Sun)
 
-- Java
+---
 
-### Github 資訊
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=qwer2415wy&show_icons=true&line_height=30" width="50%">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwer2415wy&show_icons=true&theme=zenburn)
