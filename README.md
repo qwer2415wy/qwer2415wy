@@ -22,7 +22,3 @@
 - 網站：[sunofficial.top](https://sunofficial.top)
 - YouTube：[@the.sun1k31](https://youtube.com/@the.sun1k31)
 - Twitter：[@xTop_Sun](https://twitter.com/xTop_Sun)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwer2415wy&show_icons=true&count_private=true&theme=zenburn)
