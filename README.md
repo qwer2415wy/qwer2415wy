@@ -58,16 +58,13 @@
 ### 📊 GitHub 數據
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qwer2415wy&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwer2415wy&layout=compact&hide_border=true&theme=radical" alt="top langs" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fqwer2415wy&query=followers&style=for-the-badge&label=Followers&logo=github&color=blue" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fqwer2415wy&query=following&style=for-the-badge&label=Following&logo=github&color=teal" alt="following" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fqwer2415wy&query=public_repos&style=for-the-badge&label=Repos&logo=github&color=green" alt="repos" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qwer2415wy&hide_border=true&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qwer2415wy&theme=onedark&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="trophies" />
 </p>
 
 ---
