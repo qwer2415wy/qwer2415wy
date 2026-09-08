@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Sun
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 嘿，我是 Sun
 
-### 白天寫數據，晚上寫程式 ☀️🌙 來自台灣的內容創作者 & 工程師
+### 台灣人，白天寫數據、晚上寫程式，偶爾剪剪片 ☀️🌙
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=39FF14&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B;Minecraft+Slimefun+%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E5%8C%96+%E6%8F%92%E4%BB%B6;MCP+Server+%E9%96%8B%E7%99%BC+%E2%80%A2+YouTube+%E5%89%B5%E4%BD%9C" />
 
@@ -12,13 +12,12 @@
 
 ### 🧑‍💻 關於我
 
-> 來自台灣 🇹🇼，白天做數據分析，晚上寫程式跟做影片。
-> 我相信「把東西做出來、讓它好玩」就是最好的學習方式。
+> 白天是數據分析師，晚上把電腦還給自己——寫程式、做遊戲、剪影片。
+> 沒什麼偉大的理念，就是覺得「把東西做出來、真的有人會用」很爽，
+> 比背完一整本教科書還踏實。
 
-- 💼 **白天**：數據分析
-- 🌙 **晚上**：寫程式、做遊戲、剪影片
-- 🎮 **Minecraft**：Slimefun 繁體中文化狂熱者
-- 🚀 **正在學**：MCP Server、大型語言模型整合、更多有趣的自動化
+- 🎮 **Minecraft**：Slimefun 繁體中文化，一頭栽進去就沒爬出來過
+- 🚀 **最近在碰**：MCP Server、LLM 整合，還有各種「好像沒用但很有趣」的自動化
 
 ---
 
@@ -27,15 +26,15 @@
 <table>
   <tr>
     <td align="center"><span style="font-size:44px">🧪</span></td>
-    <td><b>Slimefun 5 繁體中文化</b><br/>自製翻譯插件，掛內建引擎注入 items.yml</td>
+    <td><b>Slimefun 5 繁體中文化</b><br/>自己寫的翻譯插件，掛進內建引擎、注入 items.yml，讓中文玩家不用再猜道具效果</td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.icons8.com/fluency/48/000000/server.png" width="40" alt="mcp"/></td>
-    <td><b>MCP 伺服器開發</b><br/>NotebookLM、Pterodactyl、YouTube Analytics 等 MCP server</td>
+    <td><b>MCP 伺服器開發</b><br/>NotebookLM、Pterodactyl、YouTube Analytics，想把平常在用的服務全串起來</td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" alt="youtube"/></td>
-    <td><b>YouTube 內容創作</b><br/>遊戲實況與數據分析 🎬</td>
+    <td><b>YouTube 內容創作</b><br/>遊戲實況跟數據分析，慢慢錄、慢慢剪、慢慢發 🎬</td>
   </tr>
 </table>
 
@@ -71,7 +70,7 @@
 
 ### 🐍 我的貢獻小蛇
 
-> 每天自動更新，讓你的 GitHub 動起來～
+> 每天自動跑一次，把這些年不小心寫出來的 commit 全吞掉的小蛇 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/qwer2415wy/qwer2415wy/output/github-snake-dark.svg" alt="snake animation" />
@@ -81,8 +80,8 @@
 
 ### 📌 精選專案
 
-- [slimefun-zh-tw](https://github.com/qwer2415wy/slimefun-zh-tw) — Slimefun 5 繁體中文翻譯插件 🧪
-- 更多開發中… 🚧
+- [slimefun-zh-tw](https://github.com/qwer2415wy/slimefun-zh-tw) — 我的 Slimefun 5 繁體中文翻譯插件，目前最有成就感的一個 🧪
+- 其他東西還在肚子裡孵，先敬請期待 🚧
 
 ---
 
@@ -108,6 +107,6 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=qwer2415wy.qwer2415wy&label=%E8%A8%AA%E5%AE%A2%E4%BA%BA%E6%95%B8&countColor=%23263759" alt="visitors" />
   <br/>
-  <sub>⭐ 如果我的作品對你有幫助，幫我按顆星星吧！</sub>
+  <sub>如果這些作品有幫到你，按顆星星，或丟個訊息跟我說一聲——我會很開心的 ⭐</sub>
 </p>
 </div>
