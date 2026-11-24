@@ -1,23 +1,36 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 嘿，我是 Sun
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:39ff14&height=200&section=header&text=Hi%2C%20I'm%20Sun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E7%99%BD%E5%A4%A9%E5%AF%AB%E6%95%B8%E6%93%9A%20%E2%80%A2%20%E6%99%9A%E4%B8%8A%E5%AF%AB%E7%A8%8B%E5%BC%8F%20%E2%80%A2%20%E5%81%B6%E7%88%BE%E5%89%AA%E7%89%87&descAlignY=60&descSize=18" alt="header" />
 
-### 台灣人，白天寫數據、晚上寫程式，偶爾剪剪片 ☀️🌙
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=39FF14&center=true&vCenter=true&multiline=true&width=800&height=110&lines=%24+whoami+%E2%86%92+Sun%EF%BC%8C%E5%8F%B0%E7%81%A3%E4%BA%BA+%E2%98%80%EF%B8%8F%F0%9F%8C%99;Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+MCP+Server;Slimefun+%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E5%8C%96;%E5%8F%B0%E8%82%A1%E9%87%8F%E5%8C%96%E5%B7%A5%E5%85%B7+%E2%80%A2+DaVinci+%E5%89%AA%E8%BC%AF" alt="typing" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=39FF14&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B;Minecraft+Slimefun+%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E5%8C%96+%E6%8F%92%E4%BB%B6;MCP+Server+%E9%96%8B%E7%99%BC+%E2%80%A2+YouTube+%E5%89%B5%E4%BD%9C" />
+<br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="coding animation" />
+<img src="https://img.shields.io/badge/Taiwan-%F0%9F%87%B9%F0%9F%87%BC-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Day_job-Data_Analyst-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Night_job-Developer-39ff14?style=flat-square&labelColor=black" />
+<img src="https://img.shields.io/badge/Side_quest-YouTube-red?style=flat-square&logo=youtube&logoColor=white" />
+
+</div>
 
 ---
 
 ### 🧑‍💻 關於我
 
-> 白天是數據分析師，晚上把電腦還給自己——寫程式、做遊戲、剪影片。
-> 沒什麼偉大的理念，就是覺得「把東西做出來、真的有人會用」很爽，
-> 比背完一整本教科書還踏實。
+> 白天是數據分析師，晚上寫程式、做遊戲、剪影片。
+> 我喜歡把東西做出來，而且真的有人在用。
 
-- 🎮 **Minecraft**：Slimefun 繁體中文化，一頭栽進去就沒爬出來過
-- 🚀 **最近在碰**：MCP Server、LLM 整合，還有各種「好像沒用但很有趣」的自動化
+```python
+class Sun:
+    location   = "Taiwan 🇹🇼"
+    day_job    = "Data Analyst"
+    night_job  = ["寫程式", "做 Minecraft 插件", "剪影片"]
+    now_into   = ["MCP Server", "LLM / Claude Code 工作流", "台股量化小工具"]
+
+    def evening(self):
+        while self.has_energy():
+            self.build_something_useless_but_fun()
+```
 
 ---
 
@@ -33,8 +46,12 @@
     <td><b>MCP 伺服器開發</b><br/>NotebookLM、Pterodactyl、YouTube Analytics，想把平常在用的服務全串起來</td>
   </tr>
   <tr>
+    <td align="center"><span style="font-size:44px">📈</span></td>
+    <td><b>台股當沖輔助工具</b><br/>掃描、籌碼、停損停利、風控、回測，把盤前到盤後的流程拆成一個個小工具</td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" alt="youtube"/></td>
-    <td><b>YouTube 內容創作</b><br/>遊戲實況跟數據分析，慢慢錄、慢慢剪、慢慢發 🎬</td>
+    <td><b>YouTube 內容創作</b><br/>遊戲實況跟數據分析，剪輯主要用 DaVinci Resolve</td>
   </tr>
 </table>
 
@@ -62,15 +79,11 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fqwer2415wy&query=public_repos&style=for-the-badge&label=Repos&logo=github&color=green" alt="repos" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qwer2415wy&hide_border=true&theme=radical" alt="streak" />
-</p>
-
 ---
 
 ### 🐍 我的貢獻小蛇
 
-> 每天自動跑一次，把這些年不小心寫出來的 commit 全吞掉的小蛇 🐍
+> 每天自動跑一次，把這些年不小心寫出來的 commit 全吞掉的小蛇
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/qwer2415wy/qwer2415wy/output/github-snake-dark.svg" alt="snake animation" />
@@ -80,8 +93,7 @@
 
 ### 📌 精選專案
 
-- [slimefun-zh-tw](https://github.com/qwer2415wy/slimefun-zh-tw) — 我的 Slimefun 5 繁體中文翻譯插件，目前最有成就感的一個 🧪
-- 其他東西還在肚子裡孵，先敬請期待 🚧
+- [slimefun-zh-tw](https://github.com/qwer2415wy/slimefun-zh-tw) — 我的 Slimefun 5 繁體中文翻譯插件，目前最有成就感的一個
 
 ---
 
@@ -102,11 +114,12 @@
   </a>
 </p>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=qwer2415wy.qwer2415wy&label=%E8%A8%AA%E5%AE%A2%E4%BA%BA%E6%95%B8&countColor=%23263759" alt="visitors" />
-  <br/>
-  <sub>如果這些作品有幫到你，按顆星星，或丟個訊息跟我說一聲——我會很開心的 ⭐</sub>
-</p>
+<img src="https://api.visitorbadge.io/api/visitors?path=qwer2415wy.qwer2415wy&label=%E8%A8%AA%E5%AE%A2%E4%BA%BA%E6%95%B8&countColor=%23263759" alt="visitors" />
+<br/>
+<sub>覺得有用的話，歡迎按個星星或留言。</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:39ff14&height=100&section=footer" alt="footer" />
+
 </div>
