@@ -71,16 +71,6 @@ class Sun:
 
 ---
 
-### 📊 GitHub 數據
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fqwer2415wy&query=followers&style=for-the-badge&label=Followers&logo=github&color=blue" alt="followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fqwer2415wy&query=following&style=for-the-badge&label=Following&logo=github&color=teal" alt="following" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fqwer2415wy&query=public_repos&style=for-the-badge&label=Repos&logo=github&color=green" alt="repos" />
-</p>
-
----
-
 ### 🐍 我的貢獻小蛇
 
 > 每天自動跑一次，把這些年不小心寫出來的 commit 全吞掉的小蛇
