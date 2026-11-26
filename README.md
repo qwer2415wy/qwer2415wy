@@ -90,7 +90,7 @@ class Sun:
 ### 🌐 找到我
 
 <p align="center">
-  <a href="https://sun-tw.com">
+  <a href="https://nuaster.com">
     <img src="https://img.shields.io/badge/Website-🌐-blue?style=for-the-badge&logo=safari" alt="Website"/>
   </a>
   <a href="https://youtube.com/@the.sun1k31">
